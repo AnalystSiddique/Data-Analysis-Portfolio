@@ -52,7 +52,8 @@ The finished sales management dashboard with one page works as a dashboard and o
 
 **Click the link to view the dashboard and try it out!**
 
-[[View Dashboard]](SalesRepot_Finished.pbix)
+[[View Dashboard]](Sales Report_Finished.pbix)
+
 
 
 
