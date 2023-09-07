@@ -50,9 +50,13 @@ The finished sales management dashboard with one page works as a dashboard and o
 
 ![](Sales_overview.PNG)
 
-**Click the link to view the dashboard and try it out!**
+**Click the link below to download and view the dashboard and try it out!**
 
-[[View Dashboard]](Sales Report_Finished.pbix)
+[Download Sales Report .pbix file](
+https://github.com/AnalystSiddique/Data-Analysis-Portfolio/blob/62e2bcbdaef69908d6a80ef7706dc878e927d503/Sales%20Report_Finished.pbix)
+
+
+
 
 
 
