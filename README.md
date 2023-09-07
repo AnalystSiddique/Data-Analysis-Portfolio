@@ -48,9 +48,15 @@ This data model also shows how FACT_Budget has been connected to FACT_InternetSa
 
 The finished sales management dashboard with one page works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show  sales over time, per customer, and product.
 
-**Click the picture to open the dashboard and try it out!**
+![](Sales_overview.PNG)
 
-[![alt text](Sales.overview.PNG)](dashboard_link)
+**Click the link to view the dashboard and try it out!**
+
+[[View Dashboard]](SalesRepot_Finished.pbix)
+
+
+
+
 
 
 
